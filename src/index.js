@@ -91,4 +91,4 @@ function displayForecast(response) {
 
 let searchForm = document.querySelector(".search-form");
 searchForm.addEventListener("submit", citySearch);
-searchCity("Seoul");
+searchCity("Kumasi");
