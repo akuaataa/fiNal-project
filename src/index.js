@@ -42,7 +42,7 @@ function searchCity(city) {
 }
 function citySearch(event) {
   event.preventDefault();
-  let searchEngine = document.querySelector(".search-form-input");
+  let searchEngine = document.querySelector(".search-input");
   searchCity(searchEngine.value);
 }
 
