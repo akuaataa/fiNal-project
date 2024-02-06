@@ -16,7 +16,7 @@ p {
 }
 strong {
   font-weight: 200;
-  color: red;
+  color: rgb(10, 19, 151);
 }
 .visible-temperature {
   display: flex;
